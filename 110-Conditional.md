@@ -19,7 +19,7 @@ should log
 The first number was bigger!
 ```
 
-### Example 2
+### Example 3
 
 ```
 console.log(yourFunction(2, 7));
