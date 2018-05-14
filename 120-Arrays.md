@@ -13,7 +13,7 @@ console.log(yourFunction([1, 2, 3, 4, 5]));
 should log 
 
 ```
-5
+6
 ```
 
 ### Example 2
@@ -26,7 +26,7 @@ should log
 
 
 ```
-15
+18
 ```
 
 
