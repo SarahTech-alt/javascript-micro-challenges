@@ -11,10 +11,10 @@ Here are a handful of JavaScript challenges for your first day!
 - 100-Addition
 - 110-Conditional
 - 120-Arrays
-- 130-LoopsArraysAndConcatenation
 
 ## Stretch Mode
 
+- 130-LoopsArraysAndConcatenation
 - 140-LoopsAndTwoDimenstionalArrays
 - 150-LoopsArrayOfObjects
 
