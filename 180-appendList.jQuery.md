@@ -1,1 +1,0 @@
-Loop through a list and append all the values to the DOM

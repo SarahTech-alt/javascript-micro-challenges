@@ -1,1 +1,0 @@
-Use jQuery to add third bullet item to list.

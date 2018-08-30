@@ -1,1 +1,0 @@
-Log a number that gets bigger by one every time a button is clicked.
