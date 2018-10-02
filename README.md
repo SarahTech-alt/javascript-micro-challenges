@@ -18,6 +18,6 @@ Here are a handful of JavaScript challenges for your first day!
 - 140-LoopsAndTwoDimenstionalArrays
 - 150-LoopsArrayOfObjects
 
-Any of the other challenges! Go for it! Have fun!
+Go for it! Have fun!
 
 Remember: Imposter syndrome is real. You're awesome. We'll see you tomorrow.
