@@ -1,6 +1,6 @@
 # Array Checkpoint
 
-Create a function that takes in an array. Add up first and last values in the array.
+Create a function that takes in an array. Add up the first and last values in the array.
 
 ## Examples:
 
