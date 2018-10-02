@@ -20,4 +20,4 @@ Here are a handful of JavaScript challenges for your first day!
 
 Go for it! Have fun!
 
-Remember: Imposter syndrome is real. You're awesome. We'll see you tomorrow.
+Remember: Imposter syndrome is real. You're awesome. 
