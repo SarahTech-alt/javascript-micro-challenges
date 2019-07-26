@@ -1,5 +1,13 @@
 # javascript-micro-challenges
 
+## Objectives
+
+- Practice Read and Write skills
+- Solidify JavaScript knowledge
+  - functions
+  - loops
+  - conditionals
+
 Here are a handful of JavaScript challenges for your first day!
 
 - Fork and clone this repo (or create a brand new repo if you are comfortable with that)
