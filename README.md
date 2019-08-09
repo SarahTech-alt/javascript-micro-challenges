@@ -1,12 +1,15 @@
 # javascript-micro-challenges
 
-## Objectives
+### Assignment Objectives
 
-- Practice Read and Write skills
 - Solidify JavaScript knowledge
   - functions
   - loops
   - conditionals
+
+---
+
+## Instructions
 
 Here are a handful of JavaScript challenges for your first day!
 
@@ -28,4 +31,4 @@ Here are a handful of JavaScript challenges for your first day!
 
 Go for it! Have fun!
 
-Remember: Imposter syndrome is real. You're awesome. 
+__Remember: Imposter syndrome is real. You're awesome.__
