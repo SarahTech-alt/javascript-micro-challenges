@@ -1,5 +1,16 @@
 # javascript-micro-challenges
 
+### Assignment Objectives
+
+- Solidify JavaScript knowledge
+  - functions
+  - loops
+  - conditionals
+
+---
+
+## Instructions
+
 Here are a handful of JavaScript challenges for your first day!
 
 - Fork and clone this repo (or create a brand new repo if you are comfortable with that)
@@ -20,4 +31,4 @@ Here are a handful of JavaScript challenges for your first day!
 
 Go for it! Have fun!
 
-Remember: Imposter syndrome is real. You're awesome. 
+__Remember: Imposter syndrome is real. You're awesome.__
