@@ -26,8 +26,8 @@ Here are a handful of JavaScript challenges for your first day!
 ## Stretch Mode
 
 - 130-LoopsArraysAndConcatenation
-- 140-LoopsAndTwoDimenstionalArrays
-- 150-LoopsArrayOfObjects
+- 140-LoopsArrayOfObjects
+- 150-LoopsAndTwoDimenstionalArrays
 
 Go for it! Have fun!
 
