@@ -9,11 +9,11 @@ console.log('130-LoopsArraysAndConcatenation');
  * return the variable with the array containing the strings
  */
 
-function accessItems ( arrayToReturn, numberToStart ){
+function accessItems(arrayToReturn, numberToStart) {
     let outputArray = []; // creating empty array to hold output
-    for (let i = numberToStart; i < arrayToReturn.length; i++ ){ // starting index at inputted value and going until the end of the array
+    for (let i = numberToStart; i < arrayToReturn.length; i++) { // starting index at inputted value and going until the end of the array
         let targetedValue = arrayToReturn[i]; // accessing the index of the inputted array and storing in a variable
-        outputArray.push( targetedValue ); // add the value to the new array
+        outputArray.push(targetedValue); // add the value to the new array
     } return outputArray; // return the array containing the output
 }
 

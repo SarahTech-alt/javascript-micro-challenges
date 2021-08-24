@@ -8,7 +8,7 @@ console.log('110-Conditionals'); // validating correct sourcing
  */
 
 function whichIsBigger(firstNumberToCompare, secondNumberToCompare) {
-    if (firstNumberToCompare === secondNumberToCompare) { 
+    if (firstNumberToCompare === secondNumberToCompare) {
         return 'The numbers are the same!' // checks if numbers are equal
     } else if (firstNumberToCompare > secondNumberToCompare) { // checks if the first number is bigger than the second
         return 'The first number was bigger!'
